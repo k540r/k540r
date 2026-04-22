@@ -1,5 +1,9 @@
-<h2 align="center">Hi 👋, I'm Kapil</h2>
-<h4 align="center">A Passionate Java Backend Developer</h4>
+<h1 align="center">Hi 👋, I'm Kapil Ravat</h1>
+<h3 align="center">Java Backend Developer | Spring Boot | Microservices Enthusiast</h3>
+<p align="center">Building scalable backend systems 🚀</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;Spring+Boot+Developer;Microservices+Learner;Problem+Solver&center=true&width=500&height=50">
+</p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=k540r&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
@@ -10,8 +14,10 @@
 
 ### 👨💻 About Me
 
-* 💻 Java Backend Developer with 1.6+ years experience
-* 🔭 Currently working on **Spring Boot Projects**
+* 💻 Java Backend Developer (1.6+ Years Experience)
+* 🏢 Experience in building scalable Spring Boot applications
+* ⚙️ Strong in REST APIs, Hibernate
+* 🚀 Focused on clean architecture and performance optimization
 * 🌱 Learning **Microservices & Advanced Spring Boot**
 * 💬 Ask me about **Java, Spring Boot, Hibernate, REST APIs**
 * 📫 Reach me at: <a href="mailto:kapilravat7869@gmail.com">[kapilravat7869@gmail.com](mailto:kapilravat7869@gmail.com)</a>
@@ -41,14 +47,17 @@
 
 #### 🛠️ Languages and Tools:
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,gitlab,postman" height="35"/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="35"/>
-</p>
+### 💻 Backend
+Java | Spring Boot | Spring MVC | Hibernate | REST APIs | Microservices
 
-<p>
-  <b>Also familiar with:</b> Spring MVC, Hibernate, REST APIs, SPI, Agile
-</p>
+### 🗄️ Database
+MySQL | PostgreSQL
+
+### 🧰 Tools
+Git | Postman | Maven | Docker (learning)
+
+### 🌐 Frontend Basics
+HTML | CSS | JavaScript | Bootstrap
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k540r&layout=compact&theme=tokyonight" height="150"/>
