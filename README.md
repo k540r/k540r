@@ -1,16 +1,97 @@
-## Hi there 👋
+<table>
+<tr>
 
-<!--
-**k540r/k540r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- LEFT SIDE -->
+<!-- LEFT SIDE -->
+<td width="30%" valign="top" align="center">
 
-Here are some ideas to get you started:
+<img src="https://github.com/k540r.png" width="160" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Kapil Ravat</h2>
+<h4>k540r</h4>
+
+<p><b>Coder | Traveller</b></p>
+<p>📍 Coloredcow | Ranchi</p>
+<p>⏰ 14:42 - same time</p>
+
+<!-- FOLLOW BUTTON -->
+<p>
+  <a href="https://github.com/k540r" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-%40k540r-blue?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p><b>Achievements</b></p>
+<img src="https://github-profile-trophy.vercel.app/?username=k540r" width="180"/>
+
+<br/><br/>
+<b>Connect with me</b><br/>
+
+<p>
+  <a href="https://github.com/k540r">🐙</a>
+  <a href="https://www.linkedin.com/in/kapil-ravat">🔗</a>
+  <a href="mailto:kapilravat7869@gmail.com">📧</a>
+  <a href="https://x.com/kapilravat21">🐦</a>
+</p>
+
+</td>
+
+<!-- RIGHT SIDE -->
+<td width="70%" valign="top">
+
+<h2 align="center">Hi 👋, I'm Kapil</h2>
+<h4 align="center">A Passionate Java Backend Developer</h4>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=k540r&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+<img align="right" src="https://camo.githubusercontent.com/9e7e054f97008a0e71e75db243d40d2e92b713c13e8f19ac28fc1f216e9345ad/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" width="280"/>
+
+### 👨💻 About Me
+
+* 💻 Java Backend Developer with 1.6+ years experience  
+* 🔭 Currently working on **Spring Boot Projects**  
+* 🌱 Learning **Microservices & Advanced Spring Boot**  
+* 💬 Ask me about **Java, Spring Boot, Hibernate, REST APIs**  
+* 📫 Reach me at: **kapilravat7869@gmail.com**  
+* ⚡ Fun fact: I enjoy building real-world backend systems 😄  
+
+---
+
+### 🌐 Connect with me
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github,linkedin,gmail,twitter" />
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,gitlab,postman" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+<b>Also familiar with:</b> Spring MVC, Hibernate, REST APIs, SPI, Agile
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k540r&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=k540r&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k540r&theme=tokyonight" width="60%"/>
+</p>
+
+</td>
+</tr>
+</table>
