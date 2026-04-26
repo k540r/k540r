@@ -17,8 +17,10 @@
 * 💻 Java Backend Developer (1.6+ Years Experience)
 * 🏢 Experience in building scalable Spring Boot applications
 * ⚙️ Strong in REST APIs, Hibernate
+* 🔐 Hands-on with Spring Security & JWT Authentication
 * 🚀 Focused on clean architecture and performance optimization
-* 🌱 Learning **Microservices & Advanced Spring Boot**
+* 🔄 Basic exposure to CI/CD pipelines (GitHub Actions)
+* 🌱 Learning Microservices & Advanced Spring Boot
 * 💬 Ask me about **Java, Spring Boot, Hibernate, REST APIs**
 * 📫 Reach me at: <a href="mailto:kapilravat7869@gmail.com">[kapilravat7869@gmail.com](mailto:kapilravat7869@gmail.com)</a>
 * ⚡ Fun fact: I enjoy building real-world backend systems 😄
